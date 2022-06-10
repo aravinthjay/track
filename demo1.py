@@ -1,6 +1,7 @@
 print("hyyyy")
 print("hello")
 print("telusko")
+print("python")
 
 
 
